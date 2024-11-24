@@ -9,3 +9,4 @@ https://github.com/ColdWindScholar/Auto-Twrp-Builder
 ### 4、点击Action，填入直链及twrp版本信息
 ### 5、点击Run即可！
 ### 6、编译完成后可在Release下载编译好的Recovery
+### 7、測試他
